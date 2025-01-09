@@ -1,8 +1,8 @@
 ---
-title: 'Two Discussions with Dr. Yann LeCun'
+title: 'Two Discussions with Prof. Yann LeCun'
 slug: 'yann_lecun'
-description: 'Two Discussions with Dr. Yann LeCun'
-pubDate: 'Junuary 7, 2025'
+description: 'Two Discussions with Prof. Yann LeCun'
+pubDate: 'January 7, 2025'
 ---
 
 Yann LeCun has been a professor of computer science at New York University since 2003, and he came to prominence because of his excellent work on convolutional neural networks (CNNs). In addition to being the Chief AI Scientist at Meta, he is the most level-headed of the world's AI celebrities. He isn't terribly hopeful or terribly afraid of AI's potential, and he expressed his rational views in two recent discussions.
